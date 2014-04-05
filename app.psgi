@@ -17,7 +17,7 @@ sub load_config {
 
     +{
         'DBI' => [
-            'dbi:Pg:dbname=asm;host=172.31.50.1',
+            'dbi:Pg:dbname=asm;host=db1',
             'asm',
             'asm',
         ],
