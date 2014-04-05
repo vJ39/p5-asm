@@ -17,9 +17,9 @@ sub load_config {
 
     +{
         'DBI' => [
-            'dbi:Pg:dbname=asm;host=db1',
+            'dbi:Pg:dbname=asm;host=p5-asm.ciiygvuqtc5d.ap-northeast-1.rds.amazonaws.com',
             'asm',
-            'asm',
+            'asmasmasm',
         ],
     }
 }
